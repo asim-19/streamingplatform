@@ -10,14 +10,7 @@ import { addDoc,
 import { toast } from "react-toastify";
 
 
-const firebaseConfig = {
-  apiKey: "AIzaSyAJuj0uV3SA8qFZOu4uwSYI8nO36FRJJ7M",
-  authDomain: "n-flix-ac2fb.firebaseapp.com",
-  projectId: "n-flix-ac2fb",
-  storageBucket: "n-flix-ac2fb.appspot.com",
-  messagingSenderId: "850911052387",
-  appId: "1:850911052387:web:eb6b9cad66931dbc4cee56"
-};
+
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
