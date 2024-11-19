@@ -22,7 +22,7 @@ const App = () => {
         navigate('/login');
       }
     })
-  },[]);;
+  },[])
 
   return (
     <div>
