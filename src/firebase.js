@@ -6,7 +6,6 @@ import {
      signOut} from "firebase/auth";
 import { addDoc,
        collection,
-        ..//
         getFirestore } from "firebase/firestore";
 import { toast } from "react-toastify";
 
