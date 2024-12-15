@@ -27,7 +27,7 @@ const Footer = () => {
         <li>Cookie Preferences</li>
         <li>Corporate Information</li>
         <li>Contact Us</li>
-jgd
+
       </ul>
       <p className='copyright-text'>© 1997-2024, NFLIX, Inc.</p>
     </div>
