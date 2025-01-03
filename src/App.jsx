@@ -23,7 +23,7 @@ const App = () => {
       }
     })
   },[])
-//Nflix
+
   return (
     <div>
       <ToastContainer theme='dark' />
