@@ -52,7 +52,7 @@ const Login = () => {
           <p>New to Nflix? <span onClick={()=>{setSignState("Sign Up")}}>Sign Up Now</span></p>
           :<p>Already have account? <span onClick={()=>{setSignState("Sign In")}}>Sign Up Now</span></p>
         }
-        </div>
+        </div>??
       </div>
     </div>
   )
