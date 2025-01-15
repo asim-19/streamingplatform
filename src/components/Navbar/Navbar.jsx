@@ -9,7 +9,7 @@ import { logout } from '../../firebase'
 
 const Navbar = () => {
 
-//Wlldone
+//Welldone:)
   const navRef = useRef();
 
   useEffect(()=>{
