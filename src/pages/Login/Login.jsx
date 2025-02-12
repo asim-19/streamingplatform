@@ -12,7 +12,7 @@ const Login = () => {
   const [password, setPassword] =useState("");
   const [loading, setLoading] = useState(false);
 
-event.password();
+
   const user_auth = async (event)=>{
     event.preventDefault();
     setLoading(true);
