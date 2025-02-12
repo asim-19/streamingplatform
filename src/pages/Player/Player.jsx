@@ -13,7 +13,7 @@ const Player = () => {
     key: "",
     published_at: "",
     typeof: ""
-  })
+  }) typeof(char);
 
   const options = {
     method: 'GET',
