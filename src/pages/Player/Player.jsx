@@ -14,6 +14,7 @@ const Player = () => {
     published_at: "",
     typeof: ""
   })
+  ;;;;
 
   const options = {
     method: 'GET',
